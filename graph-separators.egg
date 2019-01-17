@@ -1,0 +1,13 @@
+;;;; -*- Hen -*-
+
+(
+ (synopsis "Determine the separation vertices of a graph.")
+ (license "BSD")
+ (category data)
+ (dependencies srfi-1 yasos digraph)
+ (test-dependencies test srfi-1)
+ (author "Richard Kelsey")
+ (maintainer "Ivan Raikov")
+ (components (extension graph-separators))
+ )
+
