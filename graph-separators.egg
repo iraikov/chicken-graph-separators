@@ -2,7 +2,7 @@
 
 (
  (synopsis "Determine the separation vertices of a graph.")
- (license "BSD")
+ (license "GPL-3")
  (category data)
  (dependencies srfi-1 yasos digraph)
  (test-dependencies test srfi-1)
